@@ -28,7 +28,7 @@ function App() {
           <button onClick={handleClick}>Click me</button>
         </div>
       ):(
-        <img src="https://media.giphy.com/media/rM0Mh6BbJAUseNmNKN/giphy.gif" alt="" className=' ' height="700px" id='image'/>
+        <img src="https://media.giphy.com/media/9ranhFobYyoIrmQLnB/giphy.gif" alt="" className=' ' height="700px" id='image'/>
         )}
       </header>
     </div>
